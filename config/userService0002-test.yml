@@ -13,5 +13,5 @@ spring:
     name: userService
 
 server:
-  port: 9011
+  port: 9031
 
